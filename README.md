@@ -7,7 +7,7 @@ A simple client for the iRacing API.
 The following sets up a virtual environment and installs dependencies with `pip`:
 
 ```bash
-python -m venv .venv
+python3 -m venv .venv
 source .venv/bin/activate
 pip install --upgrade pip
 pip install -r requirements.txt
